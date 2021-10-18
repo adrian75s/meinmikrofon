@@ -33,7 +33,8 @@
             <img src="https://i.pinimg.com/originals/18/09/08/1809089162ed683d391576994566a2c6.png" alt="bild" />
             </div>
         </div>
-        
+        <div class="bg-dark h-screen text-center">
+            <h1>Irgendwas stimmt hier nicht</h1>
         </div>
     </body>
 </html>
