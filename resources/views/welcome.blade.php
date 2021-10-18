@@ -24,17 +24,19 @@
                 </div>
             @endif
         </div>
-        <div class="bg-darker py-4 flex justify-evenly items-center">
+        <div class="bg-black py-4 flex justify-evenly items-center">
             <div>
             <h1 class="text-white px-5 py-14 flex-shrink w-auto text-5xl font-extralight">MeinMikrofon.de</h1>
             <p class="flex-shrink w-auto px-5 py-2 max-w-4xl text-white text-left text-xl font-extralight">Hier findest du alles für das perfekte Audio Setup.</p>
             </div>
             <div class="py-4">
-            <img src="https://i.pinimg.com/originals/18/09/08/1809089162ed683d391576994566a2c6.png" alt="bild" />
+            <img class="w-96" src="https://wallpapercave.com/wp/wp3020638.jpg" alt="bild" />
             </div>
         </div>
-        <div class="bg-dark h-screen text-center">
-            <h1>Irgendwas stimmt hier nicht</h1>
+        <div class="bg-darker text-3xl text-white font-extralight h-screen text-center px-28 py-20">
+            <h1 class="animate-pulse">
+                content_incoming
+            </h1>
         </div>
     </body>
 </html>
