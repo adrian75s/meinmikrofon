@@ -33,14 +33,7 @@
             <img src="https://i.pinimg.com/originals/18/09/08/1809089162ed683d391576994566a2c6.png" alt="bild" />
             </div>
         </div>
-        <div class="bg-yetdarker h-screen grid grid-cols-1 2xl:grid-cols-5 lg:grid-cols-3 md:grid-cols-2 gap-6 py-5 px-12 text-center">
-        <h1 class="text-white text-3xl">Hallo</h1>
-        <h1 class="text-white text-3xl">Hallo</h1>
-        <h1 class="text-white text-3xl">Hallo</h1>
-        <h1 class="text-white text-3xl">Hallo</h1>
-        <h1 class="text-white text-3xl">Hallo</h1>
-        <h1 class="text-white text-3xl">Hallo</h1>
-        <h1 class="text-white text-3xl">Hallo</h1>
+        
         </div>
     </body>
 </html>
